@@ -27,5 +27,3 @@ $ npm run dev
 * Cadastro -- /usuarios
 * Login -- /login
 * Validar token - /login/token
-* Esqueceu a senha - /usuarios
-* Deletar conta - /usuarios
