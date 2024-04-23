@@ -5,8 +5,6 @@
 * Cadastro 
 * Login com validação por token
 * Logout
-* Esqueceu a senha
-* Apagar a conta
 
 ## Instalação
 
